@@ -103,9 +103,3 @@ Install the skill into your AI agent environment and it will automatically engag
 - [Bun](https://bun.sh) `>= 1.0`
 - [Hono](https://hono.dev) `>= 4.0`
 - TypeScript `>= 5.0` (optional but strongly recommended)
-
----
-
-## License
-
-MIT
